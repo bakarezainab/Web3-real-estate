@@ -14,7 +14,7 @@ export function HeroSection() {
               Buy, Sell, and Lease Properties as NFTs
             </h1>
             <p className="text-lg text-gray-600 mb-8 max-w-lg">
-              ProptyPlace is revolutionizing real estate with blockchain technology. Own fractional shares of properties
+              ProptyChain is revolutionizing real estate with blockchain technology. Own fractional shares of properties
               and trade them with ease.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
@@ -54,8 +54,8 @@ export function HeroSection() {
               <img
                 // src="/placeholder.svg?height=500&width=600"
                 src="/images/Capture-real-est.jpg"                
-                 width={500}
-                height={300}
+                 width={600}
+                height={600}
                 alt="Modern property as NFT"
                 className="rounded-lg shadow-xl"
               />

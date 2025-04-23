@@ -15,7 +15,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center">
-            <span className="text-xl font-bold text-[#4E67E5]">ProptyPlace</span>
+            <span className="text-xl font-bold text-[#4E67E5]">ProptyChain</span>
           </Link>
 
           {/* Desktop Navigation */}
